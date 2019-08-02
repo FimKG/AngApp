@@ -1,2 +1,2 @@
-# Group_2
+# Group2
 Website
